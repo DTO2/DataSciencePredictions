@@ -1,5 +1,5 @@
 # DataSciencePredictions
-DataSciencePredictions
+
 
 [Super Market Sales Prediction](https://drive.google.com/file/d/11UEzo6n-qjGwbtrGwuOyeD7jOSVecf4J/view?usp=drive_link)
 
